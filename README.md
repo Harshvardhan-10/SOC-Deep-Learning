@@ -7,4 +7,5 @@ The final assignment was code of logistic regression from scratch. Helper code w
 
 My accuracy in the logistic regression came out to be:
 Train accuracy: 86.70731707317073 %
+
 Test accuracy: 80.0 %
