@@ -1,8 +1,5 @@
 # SOC Final Project Report
 
-Created time: August 5, 2024 8:25 PM
-Reviewed: No
-
 # Problem Statement:
 
 Fine-grained classification:
