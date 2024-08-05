@@ -92,3 +92,8 @@ Test Accuracy: 63.08%
 ### Model Accuracy and Model Loss curves:
 
 ![Untitled](SOC%20Final%20Report%20ce6f62e8e1634c0b9f47357b1e29c6b7/Untitled%202.png)
+
+
+### Best Model
+The model with best val_accuracy is uploaded to the GitHub Repo linked at the start of this document.  
+And also uploaded to GDrive [here](https://drive.google.com/file/d/1a1a5jLwrsgY9kwwzVIZKl3vesG_oLZkV/view?usp=sharing) 
