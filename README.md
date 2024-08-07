@@ -84,5 +84,5 @@ After applying Bounding Box
 
 
 ### Best Model
-The model with best val_accuracy is uploaded to the GitHub Repo linked at the start of this document.  
+The model with best val_accuracy is uploaded to the GitHub Repo linked at the start of this document under the branch Fine_Grain_CNN.  
 And also uploaded to GDrive [here](https://drive.google.com/file/d/1a1a5jLwrsgY9kwwzVIZKl3vesG_oLZkV/view?usp=sharing) 
